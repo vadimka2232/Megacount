@@ -3,7 +3,7 @@ import React from 'react'
 interface Props {}
 
 function Wallet(props: Props) {
-    const {} = props
+
 
     return (
         <>
